@@ -12,9 +12,7 @@
 <main>
     <?php require_once './partials/main.php'; ?>
 </main>
-
-<button id="changeBackgroundButton">Zmień tło</button>
-
+    
 <script src="assets/js/script.js"></script>
 </body>
 </html>
